@@ -95,3 +95,12 @@
 .spec {
     margin: 0 auto;
 }
+.knopka {
+    margin-top: 80px;
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #c93c3c; /* Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px;
+}
