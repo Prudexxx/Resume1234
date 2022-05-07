@@ -1,0 +1,97 @@
+* {
+    font-family:sans-serif;
+    box-sizing: border-box;
+    
+}
+.body{
+    margin: 0 auto;
+}
+.box0{
+    background: rgb(7, 67, 47);
+}
+.box{
+    display: flex;
+   
+    
+    width: 900px;
+    margin: 0 auto;
+}
+.box1{
+    
+    width: 25%;
+    height: 1100px;
+    background: #3f6592;
+    color: #ffffff;   
+            
+}
+.box2{
+    width: 75%;
+    height: 1100px;
+    background: #ffffff;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.foto{
+    text-align: center;
+}
+.Danue{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+    font-family:arial,sans-serif;  
+    font-size: 17px;
+    padding-left:30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    
+
+    
+}
+.img{
+    margin: 1   0px;
+}
+.line{
+    width: 620px;
+    background: #a8a3a3;
+    padding-left: 300px;
+    padding-top: 1px;
+    margin-top: 5px;
+}
+.oput{
+    
+    border: 1px  #000 solid;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px ;
+    text-align: center;
+
+}
+.fafa {
+    padding-top: 10px;  
+    
+}
+.stasz{
+    display: flex;
+    align-items: center;
+    padding-left: -30px;
+}
+.rabota{
+    padding-left: 20px;
+}
+.data{
+    display: flex;
+    align-items: center;
+}
+.sankt{
+    padding-left: 30px;
+    color: #3f6592;
+}
+.God_mes {
+    display: flex;
+    font-family:sans-serif;
+    padding-top: 10px;
+}
+.spec {
+    margin: 0 auto;
+}
